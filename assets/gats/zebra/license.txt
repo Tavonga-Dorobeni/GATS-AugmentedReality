@@ -1,11 +1,11 @@
 Model Information:
-* title:	Zebra | Animation |
-* source:	https://sketchfab.com/3d-models/zebra-animation-4115e9d4d8c94ec885b79acf148e6c25
-* author:	Blender Artist (https://sketchfab.com/moizmuhammad373)
+* title:	Zebra 3d base Ai Generated
+* source:	https://sketchfab.com/3d-models/zebra-3d-base-ai-generated-9c85f2f5d1a444c389121b7af03f50a2
+* author:	kenchoo (https://sketchfab.com/kenchoo)
 
 Model License:
-* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
-* requirements:	Author must be credited. Commercial use is allowed.
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Zebra | Animation |" (https://sketchfab.com/3d-models/zebra-animation-4115e9d4d8c94ec885b79acf148e6c25) by Blender Artist (https://sketchfab.com/moizmuhammad373) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Zebra 3d base Ai Generated" (https://sketchfab.com/3d-models/zebra-3d-base-ai-generated-9c85f2f5d1a444c389121b7af03f50a2) by kenchoo (https://sketchfab.com/kenchoo) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
