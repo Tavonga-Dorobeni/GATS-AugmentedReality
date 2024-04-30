@@ -66480,12 +66480,12 @@
   ],
   "asset": {
     "extras": {
-      "author": "Noa Seller (https://sketchfab.com/NoaSeller)",
+      "author": "Blender Artist (https://sketchfab.com/moizmuhammad373)",
       "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
-      "source": "https://sketchfab.com/3d-models/zebra-rigged-5d6ff2749afc438b9989f91ecb242574",
-      "title": "Zebra - Rigged"
+      "source": "https://sketchfab.com/3d-models/zebra-animation-4115e9d4d8c94ec885b79acf148e6c25",
+      "title": "Zebra | Animation |"
     },
-    "generator": "Sketchfab-15.49.0",
+    "generator": "Sketchfab-15.25.0",
     "version": "2.0"
   },
   "bufferViews": [
@@ -66588,7 +66588,7 @@
           "diffuseTexture": {
             "index": 0
           },
-          "glossinessFactor": 1.0,
+          "glossinessFactor": 0.265915,
           "specularFactor": [
             0.05,
             0.05,
@@ -66631,17 +66631,17 @@
         1
       ],
       "matrix": [
-        0.9996762275695801,
+        0.9998622536659241,
         0.0,
         0.0,
         0.0,
         0.0,
-        2.219727130036331e-16,
-        -0.9996762275695801,
+        2.2201401909470155e-16,
+        -0.9998622536659241,
         0.0,
         0.0,
-        0.9996762275695801,
-        2.219727130036331e-16,
+        0.9998622536659241,
+        2.2201401909470155e-16,
         0.0,
         0.0,
         0.0,
